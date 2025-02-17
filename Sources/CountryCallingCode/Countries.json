@@ -1,0 +1,1750 @@
+{
+    "countries": [
+        {
+            "name": {
+                "arabic": "أفغانستان",
+                "english": "Afghanistan"
+            },
+            "code": "AF",
+            "callingCode": "+93",
+            "flag": "🇦🇫"
+        },
+        {
+            "name": {
+                "arabic": "ألبانيا",
+                "english": "Albania"
+            },
+            "code": "AL",
+            "callingCode": "+355",
+            "flag": "🇦🇱"
+        },
+        {
+            "name": {
+                "arabic": "الجزائر",
+                "english": "Algeria"
+            },
+            "code": "DZ",
+            "callingCode": "+213",
+            "flag": "🇩🇿"
+        },
+        {
+            "name": {
+                "arabic": "أندورا",
+                "english": "Andorra"
+            },
+            "code": "AD",
+            "callingCode": "+376",
+            "flag": "🇦🇩"
+        },
+        {
+            "name": {
+                "arabic": "أنغولا",
+                "english": "Angola"
+            },
+            "code": "AO",
+            "callingCode": "+244",
+            "flag": "🇦🇴"
+        },
+        {
+            "name": {
+                "arabic": "أنتيغوا وباربودا",
+                "english": "Antigua and Barbuda"
+            },
+            "code": "AG",
+            "callingCode": "+1",
+            "flag": "🇦🇬"
+        },
+        {
+            "name": {
+                "arabic": "الأرجنتين",
+                "english": "Argentina"
+            },
+            "code": "AR",
+            "callingCode": "+54",
+            "flag": "🇦🇷"
+        },
+        {
+            "name": {
+                "arabic": "أرمينيا",
+                "english": "Armenia"
+            },
+            "code": "AM",
+            "callingCode": "+374",
+            "flag": "🇦🇲"
+        },
+        {
+            "name": {
+                "arabic": "أستراليا",
+                "english": "Australia"
+            },
+            "code": "AU",
+            "callingCode": "+61",
+            "flag": "🇦🇺"
+        },
+        {
+            "name": {
+                "arabic": "النمسا",
+                "english": "Austria"
+            },
+            "code": "AT",
+            "callingCode": "+43",
+            "flag": "🇦🇹"
+        },
+        {
+            "name": {
+                "arabic": "أذربيجان",
+                "english": "Azerbaijan"
+            },
+            "code": "AZ",
+            "callingCode": "+994",
+            "flag": "🇦🇿"
+        },
+        {
+            "name": {
+                "arabic": "باهاماس",
+                "english": "Bahamas"
+            },
+            "code": "BS",
+            "callingCode": "+1",
+            "flag": "🇧🇸"
+        },
+        {
+            "name": {
+                "arabic": "البحرين",
+                "english": "Bahrain"
+            },
+            "code": "BH",
+            "callingCode": "+973",
+            "flag": "🇧🇭"
+        },
+        {
+            "name": {
+                "arabic": "بنغلاديش",
+                "english": "Bangladesh"
+            },
+            "code": "BD",
+            "callingCode": "+880",
+            "flag": "🇧🇩"
+        },
+        {
+            "name": {
+                "arabic": "باربادوس",
+                "english": "Barbados"
+            },
+            "code": "BB",
+            "callingCode": "+1",
+            "flag": "🇧🇧"
+        },
+        {
+            "name": {
+                "arabic": "بيلاروسيا",
+                "english": "Belarus"
+            },
+            "code": "BY",
+            "callingCode": "+375",
+            "flag": "🇧🇾"
+        },
+        {
+            "name": {
+                "arabic": "بلجيكا",
+                "english": "Belgium"
+            },
+            "code": "BE",
+            "callingCode": "+32",
+            "flag": "🇧🇪"
+        },
+        {
+            "name": {
+                "arabic": "بليز",
+                "english": "Belize"
+            },
+            "code": "BZ",
+            "callingCode": "+501",
+            "flag": "🇧🇿"
+        },
+        {
+            "name": {
+                "arabic": "بنين",
+                "english": "Benin"
+            },
+            "code": "BJ",
+            "callingCode": "+229",
+            "flag": "🇧🇯"
+        },
+        {
+            "name": {
+                "arabic": "بوتان",
+                "english": "Bhutan"
+            },
+            "code": "BT",
+            "callingCode": "+975",
+            "flag": "🇧🇹"
+        },
+        {
+            "name": {
+                "arabic": "بوليفيا",
+                "english": "Bolivia"
+            },
+            "code": "BO",
+            "callingCode": "+591",
+            "flag": "🇧🇴"
+        },
+        {
+            "name": {
+                "arabic": "البوسنة والهرسك",
+                "english": "Bosnia and Herzegovina"
+            },
+            "code": "BA",
+            "callingCode": "+387",
+            "flag": "🇧🇦"
+        },
+        {
+            "name": {
+                "arabic": "بوتسوانا",
+                "english": "Botswana"
+            },
+            "code": "BW",
+            "callingCode": "+267",
+            "flag": "🇧🇼"
+        },
+        {
+            "name": {
+                "arabic": "البرازيل",
+                "english": "Brazil"
+            },
+            "code": "BR",
+            "callingCode": "+55",
+            "flag": "🇧🇷"
+        },
+        {
+            "name": {
+                "arabic": "بروناي",
+                "english": "Brunei"
+            },
+            "code": "BN",
+            "callingCode": "+673",
+            "flag": "🇧🇳"
+        },
+        {
+            "name": {
+                "arabic": "بلغاريا",
+                "english": "Bulgaria"
+            },
+            "code": "BG",
+            "callingCode": "+359",
+            "flag": "🇧🇬"
+        },
+        {
+            "name": {
+                "arabic": "بوركينا فاسو",
+                "english": "Burkina Faso"
+            },
+            "code": "BF",
+            "callingCode": "+226",
+            "flag": "🇧🇫"
+        },
+        {
+            "name": {
+                "arabic": "بوروندي",
+                "english": "Burundi"
+            },
+            "code": "BI",
+            "callingCode": "+257",
+            "flag": "🇧🇮"
+        },
+        {
+            "name": {
+                "arabic": "الرأس الأخضر",
+                "english": "Cabo Verde"
+            },
+            "code": "CV",
+            "callingCode": "+238",
+            "flag": "🇨🇻"
+        },
+        {
+            "name": {
+                "arabic": "كمبوديا",
+                "english": "Cambodia"
+            },
+            "code": "KH",
+            "callingCode": "+855",
+            "flag": "🇰🇭"
+        },
+        {
+            "name": {
+                "arabic": "الكاميرون",
+                "english": "Cameroon"
+            },
+            "code": "CM",
+            "callingCode": "+237",
+            "flag": "🇨🇲"
+        },
+        {
+            "name": {
+                "arabic": "كندا",
+                "english": "Canada"
+            },
+            "code": "CA",
+            "callingCode": "+1",
+            "flag": "🇨🇦"
+        },
+        {
+            "name": {
+                "arabic": "جمهورية إفريقيا الوسطى",
+                "english": "Central African Republic"
+            },
+            "code": "CF",
+            "callingCode": "+236",
+            "flag": "🇨🇫"
+        },
+        {
+            "name": {
+                "arabic": "تشاد",
+                "english": "Chad"
+            },
+            "code": "TD",
+            "callingCode": "+235",
+            "flag": "🇹🇩"
+        },
+        {
+            "name": {
+                "arabic": "تشيلي",
+                "english": "Chile"
+            },
+            "code": "CL",
+            "callingCode": "+56",
+            "flag": "🇨🇱"
+        },
+        {
+            "name": {
+                "arabic": "الصين",
+                "english": "China"
+            },
+            "code": "CN",
+            "callingCode": "+86",
+            "flag": "🇨🇳"
+        },
+        {
+            "name": {
+                "arabic": "كولومبيا",
+                "english": "Colombia"
+            },
+            "code": "CO",
+            "callingCode": "+57",
+            "flag": "🇨🇴"
+        },
+        {
+            "name": {
+                "arabic": "جزر القمر",
+                "english": "Comoros"
+            },
+            "code": "KM",
+            "callingCode": "+269",
+            "flag": "🇰🇲"
+        },
+        {
+            "name": {
+                "arabic": "جمهورية الكونغو",
+                "english": "Congo (Republic)"
+            },
+            "code": "CG",
+            "callingCode": "+242",
+            "flag": "🇨🇬"
+        },
+        {
+            "name": {
+                "arabic": "جمهورية الكونغو الديمقراطية",
+                "english": "Congo (Democratic Republic)"
+            },
+            "code": "CD",
+            "callingCode": "+243",
+            "flag": "🇨🇩"
+        },
+        {
+            "name": {
+                "arabic": "كوستاريكا",
+                "english": "Costa Rica"
+            },
+            "code": "CR",
+            "callingCode": "+506",
+            "flag": "🇨🇷"
+        },
+        {
+            "name": {
+                "arabic": "كرواتيا",
+                "english": "Croatia"
+            },
+            "code": "HR",
+            "callingCode": "+385",
+            "flag": "🇭🇷"
+        },
+        {
+            "name": {
+                "arabic": "كوبا",
+                "english": "Cuba"
+            },
+            "code": "CU",
+            "callingCode": "+53",
+            "flag": "🇨🇺"
+        },
+        {
+            "name": {
+                "arabic": "قبرص",
+                "english": "Cyprus"
+            },
+            "code": "CY",
+            "callingCode": "+357",
+            "flag": "🇨🇾"
+        },
+        {
+            "name": {
+                "arabic": "جمهورية التشيك",
+                "english": "Czech Republic"
+            },
+            "code": "CZ",
+            "callingCode": "+420",
+            "flag": "🇨🇿"
+        },
+        {
+            "name": {
+                "arabic": "الدنمارك",
+                "english": "Denmark"
+            },
+            "code": "DK",
+            "callingCode": "+45",
+            "flag": "🇩🇰"
+        },
+        {
+            "name": {
+                "arabic": "جيبوتي",
+                "english": "Djibouti"
+            },
+            "code": "DJ",
+            "callingCode": "+253",
+            "flag": "🇩🇯"
+        },
+        {
+            "name": {
+                "arabic": "دومينيكا",
+                "english": "Dominica"
+            },
+            "code": "DM",
+            "callingCode": "+1",
+            "flag": "🇩🇲"
+        },
+        {
+            "name": {
+                "arabic": "جمهورية الدومينيكان",
+                "english": "Dominican Republic"
+            },
+            "code": "DO",
+            "callingCode": "+1",
+            "flag": "🇩🇴"
+        },
+        {
+            "name": {
+                "arabic": "الإكوادور",
+                "english": "Ecuador"
+            },
+            "code": "EC",
+            "callingCode": "+593",
+            "flag": "🇪🇨"
+        },
+        {
+            "name": {
+                "arabic": "مصر",
+                "english": "Egypt"
+            },
+            "code": "EG",
+            "callingCode": "+20",
+            "flag": "🇪🇬"
+        },
+        {
+            "name": {
+                "arabic": "السلفادور",
+                "english": "El Salvador"
+            },
+            "code": "SV",
+            "callingCode": "+503",
+            "flag": "🇸🇻"
+        },
+        {
+            "name": {
+                "arabic": "غينيا الاستوائية",
+                "english": "Equatorial Guinea"
+            },
+            "code": "GQ",
+            "callingCode": "+240",
+            "flag": "🇬🇶"
+        },
+        {
+            "name": {
+                "arabic": "إريتريا",
+                "english": "Eritrea"
+            },
+            "code": "ER",
+            "callingCode": "+291",
+            "flag": "🇪🇷"
+        },
+        {
+            "name": {
+                "arabic": "إستونيا",
+                "english": "Estonia"
+            },
+            "code": "EE",
+            "callingCode": "+372",
+            "flag": "🇪🇪"
+        },
+        {
+            "name": {
+                "arabic": "إسواتيني",
+                "english": "Eswatini"
+            },
+            "code": "SZ",
+            "callingCode": "+268",
+            "flag": "🇸🇿"
+        },
+        {
+            "name": {
+                "arabic": "إثيوبيا",
+                "english": "Ethiopia"
+            },
+            "code": "ET",
+            "callingCode": "+251",
+            "flag": "🇪🇹"
+        },
+        {
+            "name": {
+                "arabic": "فيجي",
+                "english": "Fiji"
+            },
+            "code": "FJ",
+            "callingCode": "+679",
+            "flag": "🇫🇯"
+        },
+        {
+            "name": {
+                "arabic": "فنلندا",
+                "english": "Finland"
+            },
+            "code": "FI",
+            "callingCode": "+358",
+            "flag": "🇫🇮"
+        },
+        {
+            "name": {
+                "arabic": "فرنسا",
+                "english": "France"
+            },
+            "code": "FR",
+            "callingCode": "+33",
+            "flag": "🇫🇷"
+        },
+        {
+            "name": {
+                "arabic": "الغابون",
+                "english": "Gabon"
+            },
+            "code": "GA",
+            "callingCode": "+241",
+            "flag": "🇬🇦"
+        },
+        {
+            "name": {
+                "arabic": "غامبيا",
+                "english": "Gambia"
+            },
+            "code": "GM",
+            "callingCode": "+220",
+            "flag": "🇬🇲"
+        },
+        {
+            "name": {
+                "arabic": "جورجيا",
+                "english": "Georgia"
+            },
+            "code": "GE",
+            "callingCode": "+995",
+            "flag": "🇬🇪"
+        },
+        {
+            "name": {
+                "arabic": "ألمانيا",
+                "english": "Germany"
+            },
+            "code": "DE",
+            "callingCode": "+49",
+            "flag": "🇩🇪"
+        },
+        {
+            "name": {
+                "arabic": "غانا",
+                "english": "Ghana"
+            },
+            "code": "GH",
+            "callingCode": "+233",
+            "flag": "🇬🇭"
+        },
+        {
+            "name": {
+                "arabic": "اليونان",
+                "english": "Greece"
+            },
+            "code": "GR",
+            "callingCode": "+30",
+            "flag": "🇬🇷"
+        },
+        {
+            "name": {
+                "arabic": "غرينادا",
+                "english": "Grenada"
+            },
+            "code": "GD",
+            "callingCode": "+1",
+            "flag": "🇬🇩"
+        },
+        {
+            "name": {
+                "arabic": "غواتيمالا",
+                "english": "Guatemala"
+            },
+            "code": "GT",
+            "callingCode": "+502",
+            "flag": "🇬🇹"
+        },
+        {
+            "name": {
+                "arabic": "غينيا",
+                "english": "Guinea"
+            },
+            "code": "GN",
+            "callingCode": "+224",
+            "flag": "🇬🇳"
+        },
+        {
+            "name": {
+                "arabic": "غينيا بيساو",
+                "english": "Guinea-Bissau"
+            },
+            "code": "GW",
+            "callingCode": "+245",
+            "flag": "🇬🇼"
+        },
+        {
+            "name": {
+                "arabic": "غيانا",
+                "english": "Guyana"
+            },
+            "code": "GY",
+            "callingCode": "+592",
+            "flag": "🇬🇾"
+        },
+        {
+            "name": {
+                "arabic": "هايتي",
+                "english": "Haiti"
+            },
+            "code": "HT",
+            "callingCode": "+509",
+            "flag": "🇭🇹"
+        },
+        {
+            "name": {
+                "arabic": "هندوراس",
+                "english": "Honduras"
+            },
+            "code": "HN",
+            "callingCode": "+504",
+            "flag": "🇭🇳"
+        },
+        {
+            "name": {
+                "arabic": "المجر",
+                "english": "Hungary"
+            },
+            "code": "HU",
+            "callingCode": "+36",
+            "flag": "🇭🇺"
+        },
+        {
+            "name": {
+                "arabic": "آيسلندا",
+                "english": "Iceland"
+            },
+            "code": "IS",
+            "callingCode": "+354",
+            "flag": "🇮🇸"
+        },
+        {
+            "name": {
+                "arabic": "الهند",
+                "english": "India"
+            },
+            "code": "IN",
+            "callingCode": "+91",
+            "flag": "🇮🇳"
+        },
+        {
+            "name": {
+                "arabic": "إندونيسيا",
+                "english": "Indonesia"
+            },
+            "code": "ID",
+            "callingCode": "+62",
+            "flag": "🇮🇩"
+        },
+        {
+            "name": {
+                "arabic": "إيران",
+                "english": "Iran"
+            },
+            "code": "IR",
+            "callingCode": "+98",
+            "flag": "🇮🇷"
+        },
+        {
+            "name": {
+                "arabic": "العراق",
+                "english": "Iraq"
+            },
+            "code": "IQ",
+            "callingCode": "+964",
+            "flag": "🇮🇶"
+        },
+        {
+            "name": {
+                "arabic": "أيرلندا",
+                "english": "Ireland"
+            },
+            "code": "IE",
+            "callingCode": "+353",
+            "flag": "🇮🇪"
+        },
+        {
+            "name": {
+                "arabic": "إيطاليا",
+                "english": "Italy"
+            },
+            "code": "IT",
+            "callingCode": "+39",
+            "flag": "🇮🇹"
+        },
+        {
+            "name": {
+                "arabic": "جامايكا",
+                "english": "Jamaica"
+            },
+            "code": "JM",
+            "callingCode": "+1",
+            "flag": "🇯🇲"
+        },
+        {
+            "name": {
+                "arabic": "اليابان",
+                "english": "Japan"
+            },
+            "code": "JP",
+            "callingCode": "+81",
+            "flag": "🇯🇵"
+        },
+        {
+            "name": {
+                "arabic": "الأردن",
+                "english": "Jordan"
+            },
+            "code": "JO",
+            "callingCode": "+962",
+            "flag": "🇯🇴"
+        },
+        {
+            "name": {
+                "arabic": "كازاخستان",
+                "english": "Kazakhstan"
+            },
+            "code": "KZ",
+            "callingCode": "+7",
+            "flag": "🇰🇿"
+        },
+        {
+            "name": {
+                "arabic": "كينيا",
+                "english": "Kenya"
+            },
+            "code": "KE",
+            "callingCode": "+254",
+            "flag": "🇰🇪"
+        },
+        {
+            "name": {
+                "arabic": "كيريباتي",
+                "english": "Kiribati"
+            },
+            "code": "KI",
+            "callingCode": "+686",
+            "flag": "🇰🇮"
+        },
+        {
+            "name": {
+                "arabic": "كوريا الشمالية",
+                "english": "North Korea"
+            },
+            "code": "KP",
+            "callingCode": "+850",
+            "flag": "🇰🇵"
+        },
+        {
+            "name": {
+                "arabic": "كوريا الجنوبية",
+                "english": "South Korea"
+            },
+            "code": "KR",
+            "callingCode": "+82",
+            "flag": "🇰🇷"
+        },
+        {
+            "name": {
+                "arabic": "الكويت",
+                "english": "Kuwait"
+            },
+            "code": "KW",
+            "callingCode": "+965",
+            "flag": "🇰🇼"
+        },
+        {
+            "name": {
+                "arabic": "قيرغيزستان",
+                "english": "Kyrgyzstan"
+            },
+            "code": "KG",
+            "callingCode": "+996",
+            "flag": "🇰🇬"
+        },
+        {
+            "name": {
+                "arabic": "لاوس",
+                "english": "Laos"
+            },
+            "code": "LA",
+            "callingCode": "+856",
+            "flag": "🇱🇦"
+        },
+        {
+            "name": {
+                "arabic": "لاتفيا",
+                "english": "Latvia"
+            },
+            "code": "LV",
+            "callingCode": "+371",
+            "flag": "🇱🇻"
+        },
+        {
+            "name": {
+                "arabic": "لبنان",
+                "english": "Lebanon"
+            },
+            "code": "LB",
+            "callingCode": "+961",
+            "flag": "🇱🇧"
+        },
+        {
+            "name": {
+                "arabic": "ليسوتو",
+                "english": "Lesotho"
+            },
+            "code": "LS",
+            "callingCode": "+266",
+            "flag": "🇱🇸"
+        },
+        {
+            "name": {
+                "arabic": "ليبيريا",
+                "english": "Liberia"
+            },
+            "code": "LR",
+            "callingCode": "+231",
+            "flag": "🇱🇷"
+        },
+        {
+            "name": {
+                "arabic": "ليبيا",
+                "english": "Libya"
+            },
+            "code": "LY",
+            "callingCode": "+218",
+            "flag": "🇱🇾"
+        },
+        {
+            "name": {
+                "arabic": "ليختنشتاين",
+                "english": "Liechtenstein"
+            },
+            "code": "LI",
+            "callingCode": "+423",
+            "flag": "🇱🇮"
+        },
+        {
+            "name": {
+                "arabic": "ليتوانيا",
+                "english": "Lithuania"
+            },
+            "code": "LT",
+            "callingCode": "+370",
+            "flag": "🇱🇹"
+        },
+        {
+            "name": {
+                "arabic": "لوكسمبورغ",
+                "english": "Luxembourg"
+            },
+            "code": "LU",
+            "callingCode": "+352",
+            "flag": "🇱🇺"
+        },
+        {
+            "name": {
+                "arabic": "مدغشقر",
+                "english": "Madagascar"
+            },
+            "code": "MG",
+            "callingCode": "+261",
+            "flag": "🇲🇬"
+        },
+        {
+            "name": {
+                "arabic": "مالاوي",
+                "english": "Malawi"
+            },
+            "code": "MW",
+            "callingCode": "+265",
+            "flag": "🇲🇼"
+        },
+        {
+            "name": {
+                "arabic": "ماليزيا",
+                "english": "Malaysia"
+            },
+            "code": "MY",
+            "callingCode": "+60",
+            "flag": "🇲🇾"
+        },
+        {
+            "name": {
+                "arabic": "جزر المالديف",
+                "english": "Maldives"
+            },
+            "code": "MV",
+            "callingCode": "+960",
+            "flag": "🇲🇻"
+        },
+        {
+            "name": {
+                "arabic": "مالي",
+                "english": "Mali"
+            },
+            "code": "ML",
+            "callingCode": "+223",
+            "flag": "🇲🇱"
+        },
+        {
+            "name": {
+                "arabic": "مالطا",
+                "english": "Malta"
+            },
+            "code": "MT",
+            "callingCode": "+356",
+            "flag": "🇲🇹"
+        },
+        {
+            "name": {
+                "arabic": "جزر مارشال",
+                "english": "Marshall Islands"
+            },
+            "code": "MH",
+            "callingCode": "+692",
+            "flag": "🇲🇭"
+        },
+        {
+            "name": {
+                "arabic": "موريتانيا",
+                "english": "Mauritania"
+            },
+            "code": "MR",
+            "callingCode": "+222",
+            "flag": "🇲🇷"
+        },
+        {
+            "name": {
+                "arabic": "موريشيوس",
+                "english": "Mauritius"
+            },
+            "code": "MU",
+            "callingCode": "+230",
+            "flag": "🇲🇺"
+        },
+        {
+            "name": {
+                "arabic": "المكسيك",
+                "english": "Mexico"
+            },
+            "code": "MX",
+            "callingCode": "+52",
+            "flag": "🇲🇽"
+        },
+        {
+            "name": {
+                "arabic": "ولايات ميكرونيسيا المتحدة",
+                "english": "Micronesia"
+            },
+            "code": "FM",
+            "callingCode": "+691",
+            "flag": "🇫🇲"
+        },
+        {
+            "name": {
+                "arabic": "مولدوفا",
+                "english": "Moldova"
+            },
+            "code": "MD",
+            "callingCode": "+373",
+            "flag": "🇲🇩"
+        },
+        {
+            "name": {
+                "arabic": "موناكو",
+                "english": "Monaco"
+            },
+            "code": "MC",
+            "callingCode": "+377",
+            "flag": "🇲🇨"
+        },
+        {
+            "name": {
+                "arabic": "منغوليا",
+                "english": "Mongolia"
+            },
+            "code": "MN",
+            "callingCode": "+976",
+            "flag": "🇲🇳"
+        },
+        {
+            "name": {
+                "arabic": "الجبل الأسود",
+                "english": "Montenegro"
+            },
+            "code": "ME",
+            "callingCode": "+382",
+            "flag": "🇲🇪"
+        },
+        {
+            "name": {
+                "arabic": "المغرب",
+                "english": "Morocco"
+            },
+            "code": "MA",
+            "callingCode": "+212",
+            "flag": "🇲🇦"
+        },
+        {
+            "name": {
+                "arabic": "موزمبيق",
+                "english": "Mozambique"
+            },
+            "code": "MZ",
+            "callingCode": "+258",
+            "flag": "🇲🇿"
+        },
+        {
+            "name": {
+                "arabic": "ميانمار",
+                "english": "Myanmar"
+            },
+            "code": "MM",
+            "callingCode": "+95",
+            "flag": "🇲🇲"
+        },
+        {
+            "name": {
+                "arabic": "ناميبيا",
+                "english": "Namibia"
+            },
+            "code": "NA",
+            "callingCode": "+264",
+            "flag": "🇳🇦"
+        },
+        {
+            "name": {
+                "arabic": "ناورو",
+                "english": "Nauru"
+            },
+            "code": "NR",
+            "callingCode": "+674",
+            "flag": "🇳🇷"
+        },
+        {
+            "name": {
+                "arabic": "نيبال",
+                "english": "Nepal"
+            },
+            "code": "NP",
+            "callingCode": "+977",
+            "flag": "🇳🇵"
+        },
+        {
+            "name": {
+                "arabic": "هولندا",
+                "english": "Netherlands"
+            },
+            "code": "NL",
+            "callingCode": "+31",
+            "flag": "🇳🇱"
+        },
+        {
+            "name": {
+                "arabic": "نيوزيلندا",
+                "english": "New Zealand"
+            },
+            "code": "NZ",
+            "callingCode": "+64",
+            "flag": "🇳🇿"
+        },
+        {
+            "name": {
+                "arabic": "نيكاراغوا",
+                "english": "Nicaragua"
+            },
+            "code": "NI",
+            "callingCode": "+505",
+            "flag": "🇳🇮"
+        },
+        {
+            "name": {
+                "arabic": "النيجر",
+                "english": "Niger"
+            },
+            "code": "NE",
+            "callingCode": "+227",
+            "flag": "🇳🇪"
+        },
+        {
+            "name": {
+                "arabic": "نيجيريا",
+                "english": "Nigeria"
+            },
+            "code": "NG",
+            "callingCode": "+234",
+            "flag": "🇳🇬"
+        },
+        {
+            "name": {
+                "arabic": "مقدونيا الشمالية",
+                "english": "North Macedonia"
+            },
+            "code": "MK",
+            "callingCode": "+389",
+            "flag": "🇲🇰"
+        },
+        {
+            "name": {
+                "arabic": "النرويج",
+                "english": "Norway"
+            },
+            "code": "NO",
+            "callingCode": "+47",
+            "flag": "🇳🇴"
+        },
+        {
+            "name": {
+                "arabic": "عمان",
+                "english": "Oman"
+            },
+            "code": "OM",
+            "callingCode": "+968",
+            "flag": "🇴🇲"
+        },
+        {
+            "name": {
+                "arabic": "باكستان",
+                "english": "Pakistan"
+            },
+            "code": "PK",
+            "callingCode": "+92",
+            "flag": "🇵🇰"
+        },
+        {
+            "name": {
+                "arabic": "فلسطين",
+                "english": "Palestine"
+            },
+            "code": "PS",
+            "callingCode": "+970",
+            "flag": "🇵🇸"
+        },
+        {
+            "name": {
+                "arabic": "بالاو",
+                "english": "Palau"
+            },
+            "code": "PW",
+            "callingCode": "+680",
+            "flag": "🇵🇼"
+        },
+        {
+            "name": {
+                "arabic": "بنما",
+                "english": "Panama"
+            },
+            "code": "PA",
+            "callingCode": "+507",
+            "flag": "🇵🇦"
+        },
+        {
+            "name": {
+                "arabic": "بابوا غينيا الجديدة",
+                "english": "Papua New Guinea"
+            },
+            "code": "PG",
+            "callingCode": "+675",
+            "flag": "🇵🇬"
+        },
+        {
+            "name": {
+                "arabic": "باراغواي",
+                "english": "Paraguay"
+            },
+            "code": "PY",
+            "callingCode": "+595",
+            "flag": "🇵🇾"
+        },
+        {
+            "name": {
+                "arabic": "بيرو",
+                "english": "Peru"
+            },
+            "code": "PE",
+            "callingCode": "+51",
+            "flag": "🇵🇪"
+        },
+        {
+            "name": {
+                "arabic": "الفلبين",
+                "english": "Philippines"
+            },
+            "code": "PH",
+            "callingCode": "+63",
+            "flag": "🇵🇭"
+        },
+        {
+            "name": {
+                "arabic": "بولندا",
+                "english": "Poland"
+            },
+            "code": "PL",
+            "callingCode": "+48",
+            "flag": "🇵🇱"
+        },
+        {
+            "name": {
+                "arabic": "البرتغال",
+                "english": "Portugal"
+            },
+            "code": "PT",
+            "callingCode": "+351",
+            "flag": "🇵🇹"
+        },
+        {
+            "name": {
+                "arabic": "قطر",
+                "english": "Qatar"
+            },
+            "code": "QA",
+            "callingCode": "+974",
+            "flag": "🇶🇦"
+        },
+        {
+            "name": {
+                "arabic": "رومانيا",
+                "english": "Romania"
+            },
+            "code": "RO",
+            "callingCode": "+40",
+            "flag": "🇷🇴"
+        },
+        {
+            "name": {
+                "arabic": "روسيا",
+                "english": "Russia"
+            },
+            "code": "RU",
+            "callingCode": "+7",
+            "flag": "🇷🇺"
+        },
+        {
+            "name": {
+                "arabic": "رواندا",
+                "english": "Rwanda"
+            },
+            "code": "RW",
+            "callingCode": "+250",
+            "flag": "🇷🇼"
+        },
+        {
+            "name": {
+                "arabic": "سانت كيتس ونيفيس",
+                "english": "Saint Kitts and Nevis"
+            },
+            "code": "KN",
+            "callingCode": "+1",
+            "flag": "🇰🇳"
+        },
+        {
+            "name": {
+                "arabic": "سانت لوسيا",
+                "english": "Saint Lucia"
+            },
+            "code": "LC",
+            "callingCode": "+1",
+            "flag": "🇱🇨"
+        },
+        {
+            "name": {
+                "arabic": "سانت فينسنت والغرينادين",
+                "english": "Saint Vincent and the Grenadines"
+            },
+            "code": "VC",
+            "callingCode": "+1",
+            "flag": "🇻🇨"
+        },
+        {
+            "name": {
+                "arabic": "ساموا",
+                "english": "Samoa"
+            },
+            "code": "WS",
+            "callingCode": "+685",
+            "flag": "🇼🇸"
+        },
+        {
+            "name": {
+                "arabic": "سان مارينو",
+                "english": "San Marino"
+            },
+            "code": "SM",
+            "callingCode": "+378",
+            "flag": "🇸🇲"
+        },
+        {
+            "name": {
+                "arabic": "ساو تومي وبرينسيبي",
+                "english": "Sao Tome and Principe"
+            },
+            "code": "ST",
+            "callingCode": "+239",
+            "flag": "🇸🇹"
+        },
+        {
+            "name": {
+                "arabic": "المملكة العربية السعودية",
+                "english": "Saudi Arabia"
+            },
+            "code": "SA",
+            "callingCode": "+966",
+            "flag": "🇸🇦"
+        },
+        {
+            "name": {
+                "arabic": "السنغال",
+                "english": "Senegal"
+            },
+            "code": "SN",
+            "callingCode": "+221",
+            "flag": "🇸🇳"
+        },
+        {
+            "name": {
+                "arabic": "صربيا",
+                "english": "Serbia"
+            },
+            "code": "RS",
+            "callingCode": "+381",
+            "flag": "🇷🇸"
+        },
+        {
+            "name": {
+                "arabic": "سيشل",
+                "english": "Seychelles"
+            },
+            "code": "SC",
+            "callingCode": "+248",
+            "flag": "🇸🇨"
+        },
+        {
+            "name": {
+                "arabic": "سيراليون",
+                "english": "Sierra Leone"
+            },
+            "code": "SL",
+            "callingCode": "+232",
+            "flag": "🇸🇱"
+        },
+        {
+            "name": {
+                "arabic": "سنغافورة",
+                "english": "Singapore"
+            },
+            "code": "SG",
+            "callingCode": "+65",
+            "flag": "🇸🇬"
+        },
+        {
+            "name": {
+                "arabic": "سلوفاكيا",
+                "english": "Slovakia"
+            },
+            "code": "SK",
+            "callingCode": "+421",
+            "flag": "🇸🇰"
+        },
+        {
+            "name": {
+                "arabic": "سلوفينيا",
+                "english": "Slovenia"
+            },
+            "code": "SI",
+            "callingCode": "+386",
+            "flag": "🇸🇮"
+        },
+        {
+            "name": {
+                "arabic": "جزر سليمان",
+                "english": "Solomon Islands"
+            },
+            "code": "SB",
+            "callingCode": "+677",
+            "flag": "🇸🇧"
+        },
+        {
+            "name": {
+                "arabic": "الصومال",
+                "english": "Somalia"
+            },
+            "code": "SO",
+            "callingCode": "+252",
+            "flag": "🇸🇴"
+        },
+        {
+            "name": {
+                "arabic": "جنوب أفريقيا",
+                "english": "South Africa"
+            },
+            "code": "ZA",
+            "callingCode": "+27",
+            "flag": "🇿🇦"
+        },
+        {
+            "name": {
+                "arabic": "جنوب السودان",
+                "english": "South Sudan"
+            },
+            "code": "SS",
+            "callingCode": "+211",
+            "flag": "🇸🇸"
+        },
+        {
+            "name": {
+                "arabic": "إسبانيا",
+                "english": "Spain"
+            },
+            "code": "ES",
+            "callingCode": "+34",
+            "flag": "🇪🇸"
+        },
+        {
+            "name": {
+                "arabic": "سريلانكا",
+                "english": "Sri Lanka"
+            },
+            "code": "LK",
+            "callingCode": "+94",
+            "flag": "🇱🇰"
+        },
+        {
+            "name": {
+                "arabic": "السودان",
+                "english": "Sudan"
+            },
+            "code": "SD",
+            "callingCode": "+249",
+            "flag": "🇸🇩"
+        },
+        {
+            "name": {
+                "arabic": "سورينام",
+                "english": "Suriname"
+            },
+            "code": "SR",
+            "callingCode": "+597",
+            "flag": "🇸🇷"
+        },
+        {
+            "name": {
+                "arabic": "السويد",
+                "english": "Sweden"
+            },
+            "code": "SE",
+            "callingCode": "+46",
+            "flag": "🇸🇪"
+        },
+        {
+            "name": {
+                "arabic": "سويسرا",
+                "english": "Switzerland"
+            },
+            "code": "CH",
+            "callingCode": "+41",
+            "flag": "🇨🇭"
+        },
+        {
+            "name": {
+                "arabic": "سوريا",
+                "english": "Syria"
+            },
+            "code": "SY",
+            "callingCode": "+963",
+            "flag": "🇸🇾"
+        },
+        {
+            "name": {
+                "arabic": "تايوان",
+                "english": "Taiwan"
+            },
+            "code": "TW",
+            "callingCode": "+886",
+            "flag": "🇹🇼"
+        },
+        {
+            "name": {
+                "arabic": "طاجيكستان",
+                "english": "Tajikistan"
+            },
+            "code": "TJ",
+            "callingCode": "+992",
+            "flag": "🇹🇯"
+        },
+        {
+            "name": {
+                "arabic": "تنزانيا",
+                "english": "Tanzania"
+            },
+            "code": "TZ",
+            "callingCode": "+255",
+            "flag": "🇹🇿"
+        },
+        {
+            "name": {
+                "arabic": "تايلاند",
+                "english": "Thailand"
+            },
+            "code": "TH",
+            "callingCode": "+66",
+            "flag": "🇹🇭"
+        },
+        {
+            "name": {
+                "arabic": "تيمور الشرقية",
+                "english": "Timor-Leste"
+            },
+            "code": "TL",
+            "callingCode": "+670",
+            "flag": "🇹🇱"
+        },
+        {
+            "name": {
+                "arabic": "توغو",
+                "english": "Togo"
+            },
+            "code": "TG",
+            "callingCode": "+228",
+            "flag": "🇹🇬"
+        },
+        {
+            "name": {
+                "arabic": "تونغا",
+                "english": "Tonga"
+            },
+            "code": "TO",
+            "callingCode": "+676",
+            "flag": "🇹🇴"
+        },
+        {
+            "name": {
+                "arabic": "ترينيداد وتوباغو",
+                "english": "Trinidad and Tobago"
+            },
+            "code": "TT",
+            "callingCode": "+1",
+            "flag": "🇹🇹"
+        },
+        {
+            "name": {
+                "arabic": "تونس",
+                "english": "Tunisia"
+            },
+            "code": "TN",
+            "callingCode": "+216",
+            "flag": "🇹🇳"
+        },
+        {
+            "name": {
+                "arabic": "تركيا",
+                "english": "Turkey"
+            },
+            "code": "TR",
+            "callingCode": "+90",
+            "flag": "🇹🇷"
+        },
+        {
+            "name": {
+                "arabic": "تركمانستان",
+                "english": "Turkmenistan"
+            },
+            "code": "TM",
+            "callingCode": "+993",
+            "flag": "🇹🇲"
+        },
+        {
+            "name": {
+                "arabic": "توفالو",
+                "english": "Tuvalu"
+            },
+            "code": "TV",
+            "callingCode": "+688",
+            "flag": "🇹🇻"
+        },
+        {
+            "name": {
+                "arabic": "أوغندا",
+                "english": "Uganda"
+            },
+            "code": "UG",
+            "callingCode": "+256",
+            "flag": "🇺🇬"
+        },
+        {
+            "name": {
+                "arabic": "أوكرانيا",
+                "english": "Ukraine"
+            },
+            "code": "UA",
+            "callingCode": "+380",
+            "flag": "🇺🇦"
+        },
+        {
+            "name": {
+                "arabic": "الإمارات العربية المتحدة",
+                "english": "United Arab Emirates"
+            },
+            "code": "AE",
+            "callingCode": "+971",
+            "flag": "🇦🇪"
+        },
+        {
+            "name": {
+                "arabic": "المملكة المتحدة",
+                "english": "United Kingdom"
+            },
+            "code": "GB",
+            "callingCode": "+44",
+            "flag": "🇬🇧"
+        },
+        {
+            "name": {
+                "arabic": "الولايات المتحدة",
+                "english": "United States"
+            },
+            "code": "US",
+            "callingCode": "+1",
+            "flag": "🇺🇸"
+        },
+        {
+            "name": {
+                "arabic": "أوروغواي",
+                "english": "Uruguay"
+            },
+            "code": "UY",
+            "callingCode": "+598",
+            "flag": "🇺🇾"
+        },
+        {
+            "name": {
+                "arabic": "أوزبكستان",
+                "english": "Uzbekistan"
+            },
+            "code": "UZ",
+            "callingCode": "+998",
+            "flag": "🇺🇿"
+        },
+        {
+            "name": {
+                "arabic": "فانواتو",
+                "english": "Vanuatu"
+            },
+            "code": "VU",
+            "callingCode": "+678",
+            "flag": "🇻🇺"
+        },
+        {
+            "name": {
+                "arabic": "الفاتيكان",
+                "english": "Vatican City"
+            },
+            "code": "VA",
+            "callingCode": "+379",
+            "flag": "🇻🇦"
+        },
+        {
+            "name": {
+                "arabic": "فنزويلا",
+                "english": "Venezuela"
+            },
+            "code": "VE",
+            "callingCode": "+58",
+            "flag": "🇻🇪"
+        },
+        {
+            "name": {
+                "arabic": "فيتنام",
+                "english": "Vietnam"
+            },
+            "code": "VN",
+            "callingCode": "+84",
+            "flag": "🇻🇳"
+        },
+        {
+            "name": {
+                "arabic": "اليمن",
+                "english": "Yemen"
+            },
+            "code": "YE",
+            "callingCode": "+967",
+            "flag": "🇾🇪"
+        },
+        {
+            "name": {
+                "arabic": "زامبيا",
+                "english": "Zambia"
+            },
+            "code": "ZM",
+            "callingCode": "+260",
+            "flag": "🇿🇲"
+        },
+        {
+            "name": {
+                "arabic": "زيمبابوي",
+                "english": "Zimbabwe"
+            },
+            "code": "ZW",
+            "callingCode": "+263",
+            "flag": "🇿🇼"
+        }
+    ]
+}
