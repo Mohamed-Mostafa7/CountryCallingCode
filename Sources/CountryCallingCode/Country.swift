@@ -10,8 +10,8 @@ import Foundation
 
 public struct Country: Codable {
     public struct Name: Codable {
-        let arabic: String
-        let english: String
+        public let arabic: String
+        public let english: String
     }
 
     public let name: Name
