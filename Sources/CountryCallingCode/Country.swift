@@ -14,10 +14,10 @@ public struct Country: Codable {
         let english: String
     }
 
-    let name: Name
-    let code: String
-    let callingCode: String
-    let flag: String
+    public let name: Name
+    public let code: String
+    public let callingCode: String
+    public let flag: String
 }
 
 struct CountriesData: Codable {
