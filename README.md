@@ -1,6 +1,6 @@
-# CountriesProvider Swift Package
+# CountriesCallingCode Swift Package
 
-**CountriesProvider** is a Swift package that helps you retrieve detailed information about countries around the world. It provides data in both Arabic and English, including the country's name, code, calling code, and flag. It also offers search functionality based on these attributes.
+**CountriesCallingCode** is a Swift package that helps you retrieve detailed information about countries around the world. It provides data in both Arabic and English, including the country's name, code, calling code, and flag. It also offers search functionality based on these attributes.
 
 ## Features
 
