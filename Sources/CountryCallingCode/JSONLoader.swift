@@ -11,7 +11,7 @@ import Foundation
 class JSONLoader {
     static func loadCountries() -> [Country]? {
         // 1. Get the URL of the JSON file
-        guard let url = Bundle.main.url(forResource: "Countries", withExtension: "json") else {
+        guard let url = Bundle.module.url(forResource: "Countries", withExtension: "json") else {
             print("Failed to locate JSON file.")
             return nil
         }
