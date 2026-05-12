@@ -13,8 +13,9 @@ A lightweight Swift Package providing detailed country data with full bilingual 
 
 ## Demo
 
-<!-- Convert your LinkedIn demo video to GIF, save it as docs/demo.gif, then uncomment the line below: -->
-![CountryCallingCode demo](docs/demo.gif)
+<p align="center">
+  <img src="docs/demo.gif" alt="CountryCallingCode demo — searching countries with bilingual Arabic + English data, codes, calling codes, and flags" width="320">
+</p>
 
 ---
 
